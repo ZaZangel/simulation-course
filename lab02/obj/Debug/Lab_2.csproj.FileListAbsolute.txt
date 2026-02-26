@@ -1,0 +1,10 @@
+C:\Users\angel\OneDrive\Desktop\lab2\bin\Debug\Lab_2.exe.config
+C:\Users\angel\OneDrive\Desktop\lab2\bin\Debug\Lab_2.exe
+C:\Users\angel\OneDrive\Desktop\lab2\bin\Debug\Lab_2.pdb
+C:\Users\angel\OneDrive\Desktop\lab2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\lab2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\angel\OneDrive\Desktop\lab2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Desktop\lab2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\lab2\obj\Debug\Lab_2.exe
+C:\Users\angel\OneDrive\Desktop\lab2\obj\Debug\Lab_2.pdb
+C:\Users\angel\OneDrive\Desktop\lab2\obj\Debug\Lab2.Form1.resources
